@@ -27,11 +27,11 @@ I decided to use Streamlit because it allowed me to create a webpage that could 
 
 ### Wireframe Diagram 1
 
-![Wireframe Diagram 1](images/wireframe1.png)
+![Wireframe Diagram 1](images/Wireframe1.png)
 
 ### Wireframe Diagram 2
 
-![Wireframe Diagram 2](images/wireframe2.png)
+![Wireframe Diagram 2](images/Wireframe2.png)
 
 ## Technical Architecture
 
@@ -45,13 +45,9 @@ The project used several technologies, each with a specific purpose. The overall
 * Take user input from streamlit
 * Save user input to CSV file
 
-### Architecture Diagram
-
-![Architecture Diagram](images/ArchitectureDiagram.png)
-
 ## Process Flowchart
 
-![Process Flowchart](images/CSFlowchart.png)
+![Process Flowchart](images/Flowchart.png)
 
 ## Data Cleaning and Preparation
 
@@ -94,11 +90,11 @@ The use of separate tabs was intended to improve navigation by allowing differen
 
 ### Sample Graph and Description from Site
 
-![Sample Graph and Description](images/graph.png)
+![Sample Graph and Description](images/SampleGraph.png)
 
 ### Survey from Site
 
-![Survey from Site](images/survey.png)
+![Survey from Site](images/Survey.png)
 
 ## User Input and Validation
 
@@ -122,7 +118,7 @@ I tested:
 
 ### Survey input testing
 
-![Testing Table](images/FinalTestFR.png)
+![Testing Table](images/TestingTable.png)
 
 ## Development Process
 
