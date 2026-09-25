@@ -1,4 +1,5 @@
 # Student Mental Health Data Analysis
+02/06/2025 - 06/07/2025
 
 ## Project Overview
 
@@ -8,11 +9,11 @@ This project investigates student mental health using data analysis, data visual
 
 I began by researching potential datasets using several sources, including data.gov.ie, the Central Statistics Office, Europa, UCD resources and Kaggle. The main challenge was finding a dataset that was suitable for both analysis and visualisation. Some datasets were already extremely clean and contained very few variables, while others were too large or unstructured for the scope of the project.
 
-I ultimately selected the Student Mental Health dataset from Kaggle. I chose this dataset because student mental health is a relevant topic and the dataset contained enough information to support meaningful visualisation while still requiring some data cleaning. The dataset was particularly relevant to the intended audience because the project was designed around students entering college. This is a topic I have a personal interest in, as I myself am just starting college.
+I selected the Student Mental Health dataset from Kaggle. I chose this dataset because the dataset contained enough information to support meaningful visualisation while still requiring some data cleaning. The dataset was particularly relevant as I have a personal interest in it, as I myself am just starting college.
 
 ## Research into Data Visualisation and UI/UX
 
-Before developing the application, I researched existing data visualisation websites to identify effective approaches to presenting information. I examined examples including Gapminder and applications available through the Streamlit gallery. Gapminder demonstrated how interactive visualisations can allow users to explore complex datasets, while Streamlit examples demonstrated how graphs, datasets and navigation could be incorporated into a web application.
+Before developing the application, I researched existing data visualisation websites to identify effective approaches to displaying information. I examined examples including Gapminder and applications available through the Streamlit gallery. Gapminder showed how interactive visualisations can allow users to explore complex datasets, while Streamlit examples showed how graphs, datasets and navigation could be incorporated into a web page.
 
 From this research, I identified several design principles that I wanted to incorporate:
 
@@ -46,11 +47,11 @@ The project used several technologies, each with a specific purpose. The overall
 
 ### Architecture Diagram
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/ArchitectureDiagram.png)
 
 ## Process Flowchart
 
-![Process Flowchart](images/flowchart.png)
+![Process Flowchart](images/CSFlowchart.png)
 
 ## Data Cleaning and Preparation
 
@@ -121,7 +122,7 @@ I tested:
 
 ### Survey input testing
 
-Testing Table
+![Testing Table](images/FinalTestFR.png)
 
 ## Development Process
 
